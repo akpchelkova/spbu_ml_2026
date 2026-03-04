@@ -13,8 +13,12 @@ torchmetrics
 torchvision
 tqdm
 wandb
-
 black
 isort
 mypy
 pylint
+imbalanced-learn
+ipywidgets
+widgetsnbextension
+jupyterlab
+mlxtend
