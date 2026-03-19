@@ -1,0 +1,84 @@
+﻿Признак ;Расшифровка
+region_name_cat;Населенный пункт (пригород, город, область)
+district_cat;Район
+corpus_cat;Корпус
+developer_cat;Застройщик
+agreement_date;Дата продажи
+floor;Этаж
+square;Площадь объекта
+rooms_4;"Количество комнат (если больше 4, то "">=4"")"
+location_logs_count_mean;Среднее число логов в браузере
+location_depth;Глубина аггрегации 
+location_logs_count_std;Стандартное отклонение числа логов в браузере
+location_flash_mean_mean;Среднее число установленных Flash Player на девайсах
+location_hds_ratio_mean_mean;Усредненное соотношение пикселей экрана
+location_hotel_w_mean_distance;Среднее расстояние (км) до отелей в радиусе 1 км
+location_pop_bank_w_mean_distance;Среднее расстояние (км) до отделений Сбербанка в радиусе 1 км
+location_natural_cnt;"Число объектов с тегом ""natural"""
+location_office_w_mean_distance;Среднее расстояние (км) до офисных зданий в радиусе 1 км
+location_depth.1;Глубина охвата регионов_1
+location_barrier_w_mean_distance;Среднее расстояние (км) до барьеров (стены, заборы и т.п.) в радиусе 1 км
+location_amenity_bank_w_mean_distance;Среднее расстояние (км) до отдлений банков и банкоматов в радиусе 1 км
+location_farmland_cnt;"Число объектов с тегом ""farmland"""
+location_car_rental_cnt;"Число объектов с тегом ""car_rental"""
+location_railway_station_cnt;"Число объектов с тегом ""railway_station"""
+location_fuel_w_mean_distance;Среднее расстояние (км) до АЗС в радиусе 1 км
+location_commercial_cnt;"Число объектов с тегом ""commercial"""
+location_leisure_cnt;"Число объектов с тегом ""leisure"""
+location_shop_clothes_w_mean_distance;Среднее расстояние (км) до магазинов одежды в радиусе 1 км
+location_bus_station_cnt;"Число объектов с тегом ""bus_station"""
+location_mean_levels_mean;Средняя этажность в радиусе 1 км
+location_commercial_w_mean_distance;Среднее расстояние до коммерческих объектов в радиусе 1 км
+location_mean_area_density;Средняя плотность застройки в радиусе 1 км
+location_industrial_w_mean_distance;Среднее расстояние (км) до индустриальных объектов в радиусе 1 км
+location_town_w_mean_distance;Среднее расстояние в (км) до адм. центров в радиусе 1 км
+location_residential_w_mean_distance;Среднее расстояние (км) до жилых объектов в радиусе 1 км
+location_water_cnt;"Число объектов с тегом ""water"""
+location_pop_cafe_cnt;"Число объектов с тегом ""pop_cafe"""
+location_buildings_cnt;"Число объектов с тегом ""buildings"""
+location_pop_bank_cnt;"Число объектов с тегом ""pop_bank"""
+location_std_levels_mean;Вариация этажности в радиусе 1 км
+location_amenity_restaurant_w_mean_distance;Среднее расстояние (км) до ресторанов в радиусе 1 км
+location_railway_station_w_mean_distance;Среднее расстояние (км) до ж/д станций в радиусе 1 км
+location_social_w_mean_distance;Среднее расстояние (км) до социальных объектов в радиусе 1 км
+location_max_levels_max;Максимальная этажность в радиусе 1 км
+location_marketplace_cnt;"Число объектов с тегом ""marketplace"""
+location_public_transport_platform_cnt;"Число объектов с тегом ""public_transport_platform"""
+location_parking_cnt;"Число объектов с тегом ""parking"""
+location_natural2_cnt;"Число объектов с тегом ""natural2"""
+location_highway_traffic_signals_cnt;"Число объектов с тегом ""highway_traffic_signals"""
+location_shop_other_w_mean_distance;Среднее расстояние (км) до магазинов (за исключением супермаркетов и магазинов алкоголя) в радиусе 1 км
+location_school_w_mean_distance;Среднее расстояние (км) до школ в радиусе 1 км
+location_marketplace_w_mean_distance;Среднее расстояние (км) до рынка в радиусе 1 км
+location_amenity_leisure_w_mean_distance;Среднее расстояние (км) до театров, кинотеатров, художественных центров в радиусе 1 км
+location_tourism_w_mean_distance;Среднее расстояние (км) до туристических объектов в радиусе 1 км
+location_shop_alco_cnt;"Число объектов с тегом ""shop_alco"""
+location_motel_cnt;"Число объектов с тегом ""motel"""
+location_market_cnt;"Число объектов с тегом ""market"""
+location_residential_cnt;"Число объектов с тегом ""residential"""
+location_shop_product_w_mean_distance;Среднее расстояние (км) до продуктовых магазинов в радиусе 1 км
+location_village_cnt;"Число объектов с тегом ""village"""
+location_railway_w_mean_distance;Среднее расстояние (км) до ж/д в радиусе 1 км
+location_highway_crossing_w_mean_distance;Среднее расстояние (км) до пешеходных переходов в радиусе 1 км
+location_public_transport_stop_position_cnt;"Число объектов с тегом ""public_transport_stop_position"""
+location_railway_cnt;"Число объектов с тегом ""railway"""
+location_fuel_cnt;"Число объектов с тегом ""fuel"""
+location_industrial_cnt;"Число объектов с тегом ""industrial"""
+location_shop_alco_w_mean_distance;Среднее расстояние (км) до магазинов алкоголя в радиусе 1 км
+location_pop_shop_w_mean_distance;Среднее расстояние (км) до определённых магазинов розничной торговли (Магнит, Перекресток, Пятёрочка) в радиусе 1 км
+location_suburb_cnt;"Число объектов с тегом ""suburb"""
+location_bridge_cnt;"Число объектов с тегом ""bridge"""
+location_depth.2;Глубина охвата регионов_2
+location_college_cnt;"Число объектов с тегом ""college"""
+location_amenity_pharmacy_w_mean_distance;Среднее расстояние (км) до аптек в радиусе 1 км
+location_public_transport_stop_position_w_mean_distance;Среднее расстояние (км) до остановок общественного транспорта в радиусе 1 км
+location_public_transport_platform_w_mean_distance;Среднее расстояние (км) до оборудованных остановок общественного транспорта в радиусе 1 км
+location_water_w_mean_distance;Среднее расстояние (км) до водоёмов в радиусе 1 км
+location_university_w_mean_distance;Среднее расстояние (км) до высших учебных заведений в радиусе 1 км
+location_leisure_w_mean_distance;Среднее расстояние (км) до объектов досуга в радиусе 1 км
+location_pop_shop_cnt;"Число объектов с тегом ""pop_shop"""
+price_target;Цена за квадратный метр
+hc_name_cat;Название жк
+interior_cat;Отделка корпуса
+class_cat;Класс жилья
+stage_cat;Стадия строительной готовности, на дату agreement_date
