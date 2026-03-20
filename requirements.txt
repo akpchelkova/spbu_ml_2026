@@ -23,3 +23,5 @@ widgetsnbextension
 jupyterlab
 mlxtend
 lime
+pyALE
+shap
